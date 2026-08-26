@@ -4,6 +4,15 @@
 
 I design and build data solutions focused on real business needs, from data ingestion and transformation to analytics and automation.
 
+## Portfolio
+
+**My main professional site:**  
+[gregorio-valverde.github.io](https://gregorio-valverde.github.io/)
+
+There you can find my experience, projects, publications and a broader view of my professional profile.
+
+[LinkedIn](https://www.linkedin.com/in/gregorio-valverde/)
+
 ## Stack
 
 **Data Engineering**  
@@ -24,8 +33,3 @@ Reusable ELT framework built with Apache Airflow and dbt.
 ### [electricity-demand-forecasting-ml](https://github.com/gregorio-valverde/electricity-demand-forecasting-ml)
 
 Electricity demand forecasting using statistical, Machine Learning and Deep Learning models.
-
----
-
-**More about me:**  
-[Portfolio](https://gregorio-valverde.github.io/) · [LinkedIn](https://www.linkedin.com/in/gregorio-valverde/)
