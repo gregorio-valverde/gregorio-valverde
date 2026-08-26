@@ -1,16 +1,32 @@
-## Hi there 👋
+```md
+# Gregorio Valverde
 
-<!--
-**gregorio-valverde/gregorio-valverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer · Analytics Engineer · Digital Transformation
 
-Here are some ideas to get you started:
+I design and build data solutions focused on real business needs, from data ingestion and transformation to analytics and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Data Engineering**  
+Python · SQL · Apache Airflow · dbt
+
+**Analytics**  
+Power BI · DAX · Data Modeling
+
+**Infrastructure**  
+Docker · Git · CI/CD · AWS · Microsoft Fabric
+
+## Main Projects
+
+### [airflow-dbt-elt-framework](https://github.com/gregorio-valverde/airflow-dbt-elt-framework)
+Reusable ELT framework built with Apache Airflow and dbt.
+
+### [electricity-demand-forecasting-ml](https://github.com/gregorio-valverde/electricity-demand-forecasting-ml)
+Electricity demand forecasting using statistical, Machine Learning and Deep Learning models.
+
+---
+
+**More about me:**  
+[Portfolio](https://gregorio-valverde.github.io/) · [LinkedIn](https://www.linkedin.com/in/gregorio-valverde/)
+```
+
